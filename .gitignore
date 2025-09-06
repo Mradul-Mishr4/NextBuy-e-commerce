@@ -1,0 +1,4 @@
+node_modules
+*.env
+.DS_Store
+PAYMENT_DEBUG_GUIDE.md
